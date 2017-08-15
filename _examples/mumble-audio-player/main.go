@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dchote/gumble/gumble"
-	"github.com/dchote/gumble/gumbleffmpeg"
-	"github.com/dchote/gumble/gumbleutil"
-	_ "github.com/dchote/gumble/opus"
+	"github.com/dkunzler/gumble/gumble"
+	"github.com/dkunzler/gumble/gumbleffmpeg"
+	"github.com/dkunzler/gumble/gumbleutil"
+	_ "github.com/dkunzler/gumble/opus"
 )
 
 func main() {

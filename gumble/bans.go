@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/dkunzler/gumble/gumble/MumbleProto"
 	"github.com/golang/protobuf/proto"
 )
 
